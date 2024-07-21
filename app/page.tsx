@@ -17,8 +17,8 @@ export default function Home() {
         <p className="mt-6 text-center w-1/2 opacity-80 mobile:w-9/12">Empower your projects with cutting-edge <strong>tools</strong> and <strong>libraries</strong> designed to streamline your development process. Enhance <strong className="underline">productivity</strong>, reduce <strong className="underline">complexity</strong>, and bring your ideas to life <strong>faster</strong> than ever before.</p>
 
         <ShimmerButton className="shadow-2xl mt-4 mobile:mt-5">
-        <span className="whitespace-pre-wrap text-center text-sm font-medium leading-none tracking-tight text-white dark:from-white dark:to-slate-900/10 lg:text-lg">
-          Shimmer Button
+        <span className="whitespace-pre-wrap flex items-center  text-center text-sm font-medium leading-none tracking-tight text-white dark:from-white dark:to-slate-900/10 lg:text-lg">
+          Get Start <ChevronRight size={18}/>
         </span>
       </ShimmerButton>
         </div>
