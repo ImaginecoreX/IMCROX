@@ -16,7 +16,7 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata = {
-  title: "imcrox",
+  title: "IMCROX",
   description: "The back-bone of the ImaginecoreX",
 };
 
